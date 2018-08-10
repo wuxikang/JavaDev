@@ -1,4 +1,4 @@
-package hello;
+package hellojava;
 
 public class MoveP {
 

@@ -1,4 +1,4 @@
-package hello;
+package hellojava;
 
 import java.io.File;
 import java.io.FilenameFilter;

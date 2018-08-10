@@ -1,4 +1,4 @@
-package hello;
+package hellojava;
 
 /**
  * Only for test
